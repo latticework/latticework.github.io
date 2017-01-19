@@ -1,23 +1,23 @@
 ## ![Latticework Logo](http://gravatar.com/avatar/8357650ab96d5823afb278120cbfffa3?s=80&d=mm)
 
-**格子** Wecome to to the Latticework public site. We strive to provide the community with relevant information about Cloud Computing and Microservice SaaS technologies. Below are the information we have for the community. Enjoy!
+**格​子** Wecome to to the Latticework public site. We strive to provide the community with relevant information about Cloud Computing and Microservice SaaS technologies. Below are the information we have for the community. Enjoy!
 
 ## Communication
 
-- Blog [@latticeworkms](https://medium.com/@latticeworkms)
-- Twitter [@latticeworkms](https://twitter.com/@latticeworkms)
-- GitHub [https://github.com/latticework](https://github.com/latticework)
-- Forum [Latticework](https://groups.google.com/d/forum/latticework)
-- Email [latticework@googlegroups.com](mailto:latticework@googlegroups.com)
+- Blog <a href="https://medium.com/@latticeworkms" target="_blank">@latticeworkms ➥</a>
+- Twitter <a href="https://twitter.com/@latticeworkms" target="_blank">@latticeworkms ➥</a>
+- GitHub <a href="https://github.com/latticework" target="_blank">https://github.com/latticework ➥</a>
+- Forum <a href="https://groups.google.com/d/forum/latticework" target="_blank">Latticework ➥</a>
+- Email <a href="mailto:latticework@googlegroups.com" target="_blank">latticework@googlegroups.com ➥</a>
 
 ## Projects
 
-- **⌗ Jali** [http://jali-ms.io/](http://jali-ms.io/)
+- **⌗ Jali** <a href="http://jali-ms.io" target="_blank">http://jali-ms.io ➥</a>
 
 ## Topics
 
-- [SaaS Application Architectural Principles](https://medium.com/@latticeworkms/architectural-principles-for-a-microservice-based-saas-application-b60d81ab572c)
+- <a href="https://medium.com/@latticeworkms/architectural-principles-for-a-microservice-based-saas-application-b60d81ab572c" target="_blank">SaaS Application Architectural Principles ➥</a>[]()
 
 ## Members
 
-- [Kenneth Brubaker](https://clavecoder.github.io/)
+- <a href="https://clavecoder.github.io/" target="_blank">🔑 Kenneth Brubaker ➥</a>[]()
