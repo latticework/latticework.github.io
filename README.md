@@ -14,7 +14,7 @@ If you would like help designing and delivering your SaaS software or want to jo
 
 ## Projects
 
-- **⌗** <a href="http://jali-ms.io" target="_blank"><b>Jali</b> ➥</a>: specification-driven serverless microservice framework
+- <a href="http://jali-ms.io" target="_blank"><b>⌗ Jali</b> ➥</a>: specification-driven serverless microservice framework
 
 ## Topics
 
