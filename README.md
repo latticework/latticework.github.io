@@ -8,7 +8,7 @@
 - Twitter <a href="https://twitter.com/@latticeworkms" target="_blank">@latticeworkms ➥</a>
 - GitHub <a href="https://github.com/latticework" target="_blank">https://github.com/latticework ➥</a>
 - Forum <a href="https://groups.google.com/d/forum/latticework" target="_blank">Latticework ➥</a>
-- Email <a href="mailto:latticework@googlegroups.com" target="_blank">latticework@googlegroups.com ➥</a>
+- Email <a href="mailto:latticeworkms@gmail.com" target="_blank">latticeworkms@gmail.com ➥</a>
 
 ## Projects
 
