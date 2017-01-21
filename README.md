@@ -2,7 +2,7 @@
 
 **格子** Wecome to to the Latticework public site. We strive to provide the community with relevant information about Cloud Computing and Microservice SaaS technologies. Below are the information we have for the community. Enjoy!
 
-If you would like help delivering your SaaS software or want to join the team, <a href="mailto:latticeworkms@gmail.com" target="_blank">contact us ➥</a>!
+If you would like help delivering your SaaS software or want to join the team, <a href="mailto:latticeworkms@gmail.com" target="_blank">contact us</a>!
 
 ## Communication
 
